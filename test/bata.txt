@@ -1,0 +1,8 @@
+			*VtV	Id-Voice
+			*VtV	Id-Voice
+bata	bata	1	1	0
+	bada	9	0	1
+pata	pata	2	1	0
+	pada	8	0	1
+data	data	1	1	0
+data	dada	10	0	1
